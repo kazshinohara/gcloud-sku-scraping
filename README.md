@@ -1,6 +1,6 @@
 # Google Cloud SKU Group / SKU ID 抽出スクリプト
 
-このスクリプトは、Google Cloud SKU Group ページをスクレイピングし、各 SKU Group に関連付けられているすべての SKU ID を抽出して、そのマッピングを CSV ファイルに出力します。
+このスクリプトは、Google Cloud SKU Group ページ (https://cloud.google.com/skus/sku-groups) をスクレイピングし、各 SKU Group に関連付けられているすべての SKU ID を抽出して、そのマッピングを CSV ファイルに出力します。
 
 ## 特徴
 
